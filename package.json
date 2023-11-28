@@ -6,7 +6,7 @@
   "homepage": "https://koder-abc123.github.io/Bottle",
   "license": "MIT",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.2.3",
+    "@truffle/hdwallet-provider": "^2.0.0",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "babel-preset-es2015": "6.24.1",
@@ -19,14 +19,14 @@
     "chai-bignumber": "3.0.0",
     "gh-pages": "^2.1.1",
     "react": "16.8.4",
-    "react-bootstrap": "1.0.0-beta.5",
+    "react-bootstrap": "1.0.0",
     "react-dom": "16.8.4",
-    "react-scripts": "2.1.3",
-    "truffle": "5.0.5",
+    "react-scripts": "5.0.0",
+    "truffle": "5.1.34",
     "@fleekhq/fleek-storage-js": "^1.0.14",
     "axios": "^0.21.1",
-    "node-telegram-bot-api": "^0.52.0",
-    "web3": "^1.3.4"
+    "node-telegram-bot-api": "^0.64.0",
+    "web3": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
