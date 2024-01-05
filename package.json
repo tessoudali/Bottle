@@ -24,7 +24,7 @@
     "react-scripts": "2.1.3",
     "truffle": "5.0.5",
     "@fleekhq/fleek-storage-js": "^1.0.14",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "node-telegram-bot-api": "^0.52.0",
     "web3": "^1.3.4"
   },
